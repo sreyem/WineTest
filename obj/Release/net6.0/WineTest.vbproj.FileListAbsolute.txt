@@ -1,0 +1,15 @@
+C:\GIT\WineTest\bin\Release\net6.0\WineTest.exe
+C:\GIT\WineTest\bin\Release\net6.0\WineTest.deps.json
+C:\GIT\WineTest\bin\Release\net6.0\WineTest.runtimeconfig.json
+C:\GIT\WineTest\bin\Release\net6.0\WineTest.dll
+C:\GIT\WineTest\bin\Release\net6.0\WineTest.pdb
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.vbproj.AssemblyReference.cache
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.AssemblyInfoInputs.cache
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.AssemblyInfo.vb
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.vbproj.CoreCompileInputs.cache
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.dll
+C:\GIT\WineTest\obj\Release\net6.0\refint\WineTest.dll
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.pdb
+C:\GIT\WineTest\obj\Release\net6.0\WineTest.genruntimeconfig.cache
+C:\GIT\WineTest\obj\Release\net6.0\ref\WineTest.dll
